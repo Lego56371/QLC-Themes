@@ -1,0 +1,19 @@
+============== MAIN
+QMainWindow, QDialog
+{
+    background-color: #404B57;
+    color: #E6E6E6;
+}
+
+QTreeWidget
+{
+    background-color: #3A444F;
+    alternate-background-color: #404B57;
+    color: #E6E6E6;
+}
+
+QTextBrowser
+{
+    background-color: #3A444F;
+    color: #E6E6E6;
+}
