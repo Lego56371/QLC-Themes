@@ -16,7 +16,7 @@
 Union-Church-Lights-V5.qxw
 
 ```
-/Applications/QLC+.app/Contents/MacOS/qlcplus -w -k -o Union-Church-Lights-V5.qxw
+/Applications/QLC+.app/Contents/MacOS/qlcplus -w -k -o /Applications/QLC+.app/Contents/Resources/Union-Church-Lights-V5.qxw
 ```
 
 <details>
