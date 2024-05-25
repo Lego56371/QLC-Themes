@@ -11,3 +11,10 @@
 ```
 /Applications/QLC+.app/Contents/MacOS/qlcplus -w -k
 ```
+
+
+Union-Church-Lights-V5.qxw
+
+```
+/Applications/QLC+.app/Contents/MacOS/qlcplus -w -k -o Union-Church-Lights-V5.qxw
+```
